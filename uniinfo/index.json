@@ -1,0 +1,12 @@
+[
+  { "id": "waterloo-cs", "program": "Computer Science", "university": "University of Waterloo", "province": "ON", "keywords": ["cs", "co-op", "math", "waterloo"] },
+  { "id": "uoft-stgeorge-cs", "program": "Computer Science", "university": "University of Toronto (St. George)", "province": "ON", "keywords": ["cs", "pey", "toronto"] },
+  { "id": "ubc-cs", "program": "Computer Science", "university": "University of British Columbia", "province": "BC", "keywords": ["cs", "co-op", "vancouver"] },
+  { "id": "mcgill-cs", "program": "Computer Science", "university": "McGill University", "province": "QC", "keywords": ["cs", "montreal"] },
+  { "id": "ualberta-cs", "program": "Computer Science", "university": "University of Alberta", "province": "AB", "keywords": ["cs", "co-op", "edmonton"] },
+  { "id": "sfu-cs", "program": "Computer Science", "university": "Simon Fraser University", "province": "BC", "keywords": ["cs", "co-op", "burnaby"] },
+  { "id": "mcmaster-cs", "program": "Computer Science", "university": "McMaster University", "province": "ON", "keywords": ["cs", "co-op", "hamilton"] },
+  { "id": "western-cs", "program": "Computer Science", "university": "Western University", "province": "ON", "keywords": ["cs", "co-op", "london"] },
+  { "id": "queens-cs", "program": "Computer Science", "university": "Queen's University", "province": "ON", "keywords": ["cs", "internship", "kingston"] },
+  { "id": "uottawa-cs", "program": "Computer Science", "university": "University of Ottawa", "province": "ON", "keywords": ["cs", "co-op", "ottawa"] }
+] 
