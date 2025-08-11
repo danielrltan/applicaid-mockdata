@@ -1,0 +1,23 @@
+{
+  "id": "bob-2025",
+  "name": "Bob Singh",
+  "school": "Riverside Collegiate Institute",
+  "province": "ON",
+  "graduationYear": 2025,
+  "courses": [
+    { "code": "MHF4U", "name": "Advanced Functions", "grade": 86, "term": "2024F", "credit": 1.0 },
+    { "code": "MCV4U", "name": "Calculus and Vectors", "grade": 84, "term": "2025W", "credit": 1.0 },
+    { "code": "ICS4U", "name": "Computer Science", "grade": 89, "term": "2024F", "credit": 1.0 },
+    { "code": "ENG4U", "name": "English", "grade": 83, "term": "2024F", "credit": 1.0 },
+    { "code": "SCH4U", "name": "Chemistry", "grade": 82, "term": "2024F", "credit": 1.0 },
+    { "code": "SPH4U", "name": "Physics", "grade": 80, "term": "2025W", "credit": 1.0 }
+  ],
+  "computed": {
+    "overallAverage": 84.0,
+    "top6Average": 84.9,
+    "seniorAverage": 84.2,
+    "bySubject": { "Math": 85, "Science": 81, "CS": 89 }
+  },
+  "interests": ["software development", "internship"],
+  "extracurriculars": ["Coding Club", "Part-time IT helpdesk"]
+} 

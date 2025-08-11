@@ -1,0 +1,5 @@
+[
+  { "id": "alice-2025", "name": "Alice Chen", "school": "Oakridge Secondary School", "province": "ON", "graduationYear": 2025, "keywords": ["cs", "math", "coop", "waterloo"] },
+  { "id": "bob-2025", "name": "Bob Singh", "school": "Riverside Collegiate Institute", "province": "ON", "graduationYear": 2025, "keywords": ["cs", "coop"] },
+  { "id": "charlie-2025", "name": "Charlie Nguyen", "school": "Midtown Collegiate", "province": "ON", "graduationYear": 2025, "keywords": ["cs"] }
+] 

@@ -1,0 +1,24 @@
+{
+  "id": "alice-2025",
+  "name": "Alice Chen",
+  "school": "Oakridge Secondary School",
+  "province": "ON",
+  "graduationYear": 2025,
+  "courses": [
+    { "code": "MHF4U", "name": "Advanced Functions", "grade": 94, "term": "2024F", "credit": 1.0 },
+    { "code": "MCV4U", "name": "Calculus and Vectors", "grade": 92, "term": "2025W", "credit": 1.0 },
+    { "code": "ICS4U", "name": "Computer Science", "grade": 96, "term": "2024F", "credit": 1.0 },
+    { "code": "ENG4U", "name": "English", "grade": 88, "term": "2024F", "credit": 1.0 },
+    { "code": "SCH4U", "name": "Chemistry", "grade": 90, "term": "2024F", "credit": 1.0 },
+    { "code": "SPH4U", "name": "Physics", "grade": 91, "term": "2025W", "credit": 1.0 },
+    { "code": "MDM4U", "name": "Data Management", "grade": 95, "term": "2024S", "credit": 1.0 }
+  ],
+  "computed": {
+    "overallAverage": 92.3,
+    "top6Average": 93.0,
+    "seniorAverage": 92.0,
+    "bySubject": { "Math": 94, "Science": 90, "CS": 96 }
+  },
+  "interests": ["computer science", "co-op", "ai"],
+  "extracurriculars": ["Coding Club President", "Hackathon Winner", "Robotics Team"]
+} 
